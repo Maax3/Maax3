@@ -1,5 +1,6 @@
+<div style="text-align:center";>
 ![img1](proyecto.jpg)
-
+</div>
 ## Tragaperras
 
 [Proyecto1](https://github.com/Vostenznuk/Tragaperras_1DAW)
