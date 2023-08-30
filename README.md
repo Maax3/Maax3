@@ -3,9 +3,8 @@
 </p>
 
 ## Tragaperras
+#### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
 <div align="center">
-Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder: <br/>
-
 <a href="https://github.com/Vostenznuk/Tragaperras_1DAW">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
 </a></div>
