@@ -12,18 +12,16 @@
 <hr/>
 
 ## Mini-SQL
-
+### Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acceder:
 <div align="center">
-Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acceder: <br/>
-
 <a href="https://github.com/Vostenznuk/Aplicacion_BDD_1DAW">
-<img src="imagenes/appBDD.png" alt="Proyecto 2">
+<img src="imagenes/appBDD2.png" alt="Proyecto 2">
 </a></div>
 
 <hr/>
 
 ## Conecta 4
-#### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
+### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
 
 <div align="center">
 <a href="https://github.com/Vostenznuk/Conecta4_1DAW">
