@@ -1,4 +1,4 @@
-![img1](imagenes/proyectos.jpg)
+![img1](/imagenes/proyectos.jpg)
 
 ## Tragaperras
 
