@@ -3,7 +3,7 @@
 </p>
 
 ## Tragaperras
-#### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
+### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
 <div align="center">
 <a href="https://github.com/Vostenznuk/Tragaperras_1DAW">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
@@ -23,10 +23,9 @@ Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acced
 <hr/>
 
 ## Conecta 4
+#### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
 
 <div align="center">
-Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder: <br/>
-
 <a href="https://github.com/Vostenznuk/Conecta4_1DAW">
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
