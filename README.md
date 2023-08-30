@@ -1,4 +1,4 @@
-<div style="text-align:center";>
+<div style="text-align:center">
 ![img1](proyecto.jpg)
 </div>
 ## Tragaperras
