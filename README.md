@@ -1,8 +1,10 @@
 <p align="center">
-    <img src="proyecto.jpg" alt="Proyecto 1">
+    <img src="imagenes/proyecto.jpg" alt="Proyecto 1">
 </p>
 
 ## Tragaperras
+
+Pequeño proyecto de 1DAW simulando una app tragaperras
 
 [Proyecto1](https://github.com/Vostenznuk/Tragaperras_1DAW)
 
