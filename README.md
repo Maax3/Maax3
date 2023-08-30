@@ -1,4 +1,4 @@
-![img1](https://i.gyazo.com/687ddcbe943cf096585a71895be4b312.png)
+![img1](imagenes/proyectos.jpg)
 
 ## Tragaperras
 
