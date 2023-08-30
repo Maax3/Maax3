@@ -5,8 +5,7 @@
 ## Tragaperras
 <p align="center">
 Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
-
-[![Proyecto1](imagenes/tragaperras.gif)](https://github.com/Vostenznuk/Tragaperras_1DAW)
+[<img src="imagenes/proyecto.jpg" alt="Proyecto 1">](https://github.com/Vostenznuk/Tragaperras_1DAW)
 </p>
 
 ## Mini-SQL
