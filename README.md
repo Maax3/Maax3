@@ -5,7 +5,7 @@
 ## Tragaperras
 ### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
 <div align="center">
-<a href="https://github.com/Vostenznuk/Tragaperras_1DAW">
+<a href="https://github.com/Maax3/Tragaperras_1DAW">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
 </a></div>
 
@@ -14,7 +14,7 @@
 ## Mini-SQL
 ### Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acceder:
 <div align="center">
-<a href="https://github.com/Vostenznuk/Aplicacion_BDD_1DAW">
+<a href="https://github.com/Maax3/Aplicacion_BDD_1DAW">
 <img src="imagenes/appBDD2.png" alt="Proyecto 2">
 </a></div>
 
@@ -24,7 +24,7 @@
 ### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
 
 <div align="center">
-<a href="https://github.com/Vostenznuk/Conecta4_1DAW">
+<a href="https://github.com/Maax3/Conecta4_1DAW">
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
 
