@@ -1,14 +1,3 @@
-<style>
-  h1 {
-    color: blue;
-  }
-  p {
-    font-size: 16px;
-    color: red;
-  }
-</style>
-
-
 <p align="center">
     <img src="imagenes/proyecto.jpg" alt="Proyecto 1">
 </p>
