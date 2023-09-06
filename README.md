@@ -1,5 +1,13 @@
-<script src="Texto2D.js"></script>
-link rel="stylesheet" type="text/css" href="estilosCanvas.css">
+<style>
+  h1 {
+    color: blue;
+  }
+  p {
+    font-size: 16px;
+    color: red;
+  }
+</style>
+
 
 <p align="center">
     <img src="imagenes/proyecto.jpg" alt="Proyecto 1">
