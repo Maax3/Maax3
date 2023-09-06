@@ -1,3 +1,6 @@
+<script src="Texto2D.js"></script>
+link rel="stylesheet" type="text/css" href="estilosCanvas.css">
+
 <p align="center">
     <img src="imagenes/proyecto.jpg" alt="Proyecto 1">
 </p>
