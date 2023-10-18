@@ -1,3 +1,5 @@
+[![Intro](https://readme-typing-svg.demolab.com?font=ITIM&duration=4000&pause=150&color=0BCE0E&background=020719F9&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%A0%E2%80%8B%C2%A1Hello+World!%F0%9F%92%A0%E2%80%8B;%222%22+%2B+2+%3D+22%3F!%F0%9F%A4%94%E2%80%8B;%222%22+*+2+%3D+4%3F!%F0%9F%98%B1%E2%80%8B%E2%80%8B;JavaScript+magic%F0%9F%A4%A3%E2%80%8B)](https://git.io/typing-svg)
+
 <p align="center">
     <img src="imagenes/proyecto.jpg" alt="Proyecto 1">
 </p>
