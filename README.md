@@ -20,7 +20,9 @@
 <div align="center">
 <a href="https://github.com/Maax3/Aplicacion_BDD_1DAW">
 <img src="imagenes/appBDD2.png" alt="Proyecto 2">
-</a></div>
+</a>
+<img src="imagenes/x1.png" alt="Proyecto 2">
+</div>
 
 <hr/>
 
