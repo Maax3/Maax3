@@ -28,9 +28,6 @@
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
 
-<hr/>
-
-## ...entre otros!
 
 ![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&bg_color=1F222E&color=57C3E1&line=0ACE0D&point=FFFFFF&hide_border=true")
 
