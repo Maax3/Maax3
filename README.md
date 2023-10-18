@@ -34,6 +34,5 @@
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="stats's Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Maax3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true")]
 
