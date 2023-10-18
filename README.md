@@ -30,7 +30,7 @@
 
 <hr/>
 
-## ...entre otros!&theme=react-dark&hide_border=true&color=0ace0d
+## ...entre otros!
 
-![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&bg_color=1F222E&color=57C3E1&line=0ACE0D&point=FFFFFF&hide_border=true")
+![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&bg_color=1F222E&color=1E3D49&line=0ACE0D&point=FFFFFF&hide_border=true")
 
