@@ -8,7 +8,7 @@
 
 ## Juego - Tragaperras
 ### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
-<div align="center">
+<br><div align="center">
 <a href="https://github.com/Maax3/Tragaperras_1DAW">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
 </a></div>
@@ -32,8 +32,5 @@
 <div align="center">
 <a href="https://github.com/Maax3/Conecta4_1DAW">
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
-</a></div><hr>
-
-
-![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&bg_color=1F222E&color=57C3E1&line=0ACE0D&point=FFFFFF&hide_border=true")
+</a></div>
 
