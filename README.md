@@ -6,7 +6,7 @@
     <img src="imagenes/portada2.png" alt="Proyecto 1">
 </p>
 
-## Tragaperras
+## Juego - Tragaperras
 ### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
 <div align="center">
 <a href="https://github.com/Maax3/Tragaperras_1DAW">
@@ -15,7 +15,7 @@
 
 <hr/>
 
-## Mini-SQL
+## Proyecto - Mini-SQL
 ### Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acceder:
 <div align="center">
 <a href="https://github.com/Maax3/Aplicacion_BDD_1DAW">
@@ -26,7 +26,7 @@
 
 <hr/>
 
-## Conecta 4
+## Juego - Conecta 4
 ### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
 
 <div align="center">
