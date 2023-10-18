@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="imagenes/portada.png" alt="Proyecto 1">
+    <img src="imagenes/proyect.png" alt="Proyecto 1">
 </p>
 
 ## Tragaperras
