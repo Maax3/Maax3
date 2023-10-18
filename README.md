@@ -32,5 +32,5 @@
 
 ## ...entre otros!
 
-![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&theme=react-dark&hide_border=true&line=F85D7F")
+![grafo de estadisticas](https://github-readme-activity-graph.vercel.app/graph?username=Maax3&theme=react-dark&hide_border=true&line=0ACE0D")
 
