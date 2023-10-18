@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=ITIM&size=55&duration=4000&pause=150&color=0BCE0E&background=020719F9&center=true&vCenter=true&random=false&width=1100&height=100&lines=%F0%9F%92%A0%E2%80%8B%C2%A1Hello+World!%F0%9F%92%A0%E2%80%8B;%222%22+%2B+2+%3D+22%3F!%F0%9F%A4%94%E2%80%8B;%222%22+*+2+%3D+4%3F!%F0%9F%98%B1%E2%80%8B%E2%80%8B;Wellkom+to+JavaScript+%F0%9F%A4%A3%E2%80%8B" alt="intro" />
+   <img src="https://readme-typing-svg.demolab.com?font=ITIM&size=48&duration=4000&pause=150&color=0BCE0E&background=020719F9&center=true&vCenter=true&random=false&width=1100&height=100&lines=%F0%9F%92%A0%E2%80%8B%C2%A1Hello+World!%F0%9F%92%A0%E2%80%8B;%222%22+%2B+2+%3D+22%3F!%F0%9F%A4%94%E2%80%8B;%222%22+*+2+%3D+4%3F!%F0%9F%98%B1%E2%80%8B%E2%80%8B;Welcome+to+JavaScript+%F0%9F%A4%A3%E2%80%8B" alt="intro" />
 </p>
 
 <p align="center">
