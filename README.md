@@ -34,3 +34,11 @@
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
 
+## Prototipo web - Panaderia
+### Página web tipo presentación 
+
+<div align="center">
+<a href="https://github.com/Maax3/Prototipo-web-Panaderia">
+<img src="imagenes/panes.png" alt="Proyecto 4">
+</a></div>
+
