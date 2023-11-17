@@ -40,5 +40,6 @@
 <div align="center">
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia">
 <img src="imagenes/panes.png" alt="Proyecto 4">
+<img src="imagenes/panes.png" alt="Proyecto 4">
 </a></div>
 
