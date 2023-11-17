@@ -38,9 +38,9 @@
 
 <div align="center">
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia">
-<img src="imagenes/panes.png" alt="Proyecto 4"></a>
+<img src="imagenes/11.png" alt="Proyecto 4"></a>
 
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia">
-<img src="imagenes/11.jpg" alt="Proyecto 5"></a>
+<img src="imagenes/descarga.jpg" alt="Proyecto 5"></a>
 </div>
 
