@@ -41,6 +41,6 @@
 <img src="imagenes/11.png" alt="Proyecto 4"></a>
 
 <a href="https://github.com/Maax3/Prototipo_web_Fotografia">
-<img src="imagenes/fotografia.png" alt="Proyecto 5"></a>
+<img src="imagenes/fotografia.jpg" alt="Proyecto 5"></a>
 </div>
 
