@@ -40,7 +40,7 @@
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia">
 <img src="imagenes/11.png" alt="Proyecto 4"></a>
 
-<a href="https://github.com/Maax3/Prototipo-web-Panaderia">
-<img src="imagenes/descarga.jpg" alt="Proyecto 5"></a>
+<a href="https://github.com/Maax3/Prototipo_web_Fotografia">
+<img src="imagenes/fotografia.png" alt="Proyecto 5"></a>
 </div>
 
