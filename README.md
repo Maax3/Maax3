@@ -6,6 +6,12 @@
     <img src="imagenes/portada2.png" alt="Proyecto 1">
 </p>
 
+## Juego - Tetris
+<br><div align="center">
+<a href="https://github.com/Maax3/Tragaperras_1DAW">
+<img src="imagenes/tetris.gif" alt="Proyecto 0">
+</a></div>
+
 ## Juego - Tragaperras
 ### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
 <br><div align="center">
