@@ -6,14 +6,13 @@
     <img src="imagenes/portada2.png" alt="Proyecto 1">
 </p>
 
-## Juego - Tetris
+## Juego - Tetris (JavaScript)
 <br><div align="center">
-<a href="https://github.com/Maax3/Tragaperras_1DAW">
+<a href="https://github.com/Maax3/tetris">
 <img src="imagenes/tetris.gif" alt="Proyecto 0">
 </a></div>
 
-## Juego - Tragaperras
-### Pequeño proyecto de 1DAW simulando una app tragaperras. Haz click en la imagen para acceder:
+## Juego - Tragaperras (Java Swing)
 <br><div align="center">
 <a href="https://github.com/Maax3/Tragaperras_1DAW">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
@@ -21,8 +20,7 @@
 
 <hr/>
 
-## Proyecto - Mini-SQL
-### Proyecto final de programación en 1DAW. CRUD. Haz click en la imagen para acceder:
+## Proyecto - Interfaz SQL con Java Swing
 <div align="center">
 <a href="https://github.com/Maax3/Aplicacion_BDD_1DAW">
 <img src="imagenes/x1.png" alt="Proyecto 2">
@@ -32,15 +30,13 @@
 
 <hr/>
 
-## Juego - Conecta 4
-### Proyecto de semana santa de 1DAW del mítico juego "Conecta a 4". Haz click en la imagen para acceder:
-
+## Juego - Conecta 4 (Java Swing)
 <div align="center">
 <a href="https://github.com/Maax3/Conecta4_1DAW">
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
 
-## Prototipos web - tipo presentación 
+## Prototipos web - (Presentaciones) 
 
 <div align="center">
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia">
