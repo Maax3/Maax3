@@ -6,12 +6,14 @@
     <img src="imagenes/portada2.png" alt="Proyecto 1">
 </p>
 
-## Proyectos de Big Data y Azure
+# Proyectos de Big Data
 
 <br><div align="center">
 <a href="https://github.com/Maax3/tetris](https://github.com/Maax3/AzureTwitter" target="_blank">
 <img src="imagenes/azuteTwietter.png" alt="Proyecto 99">
 </a></div>
+
+<hr>
 
 ## Juego - Tetris (JavaScript)
 <br><div align="center">
