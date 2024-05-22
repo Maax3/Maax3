@@ -9,7 +9,7 @@
 # Proyectos de Big Data
 
 <br><div align="center">
-<a href="https://github.com/Maax3/tetris](https://github.com/Maax3/AzureTwitter" target="_blank">
+<a href="https://github.com/Maax3/AzureTwitter" target="_blank">
 <img src="imagenes/azuteTwietter.png" alt="Proyecto 99">
 </a></div>
 
