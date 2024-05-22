@@ -13,15 +13,15 @@
 <img src="imagenes/azuteTwietter.png" alt="Proyecto 99">
 </a></div>
 
-<hr>
+# Proyectos del Grado Superior
 
-## Juego - Tetris (JavaScript)
+## Juego - Tetris (JavaScript) - 2DAW
 <br><div align="center">
 <a href="https://github.com/Maax3/tetris" target="_blank">
 <img src="imagenes/tetris.gif" alt="Proyecto 0">
 </a></div>
 
-## Juego - Tragaperras (Java Swing)
+## Juego - Tragaperras (Java Swing) - 1DAW
 <br><div align="center">
 <a href="https://github.com/Maax3/Tragaperras_1DAW" target="_blank">
 <img src="imagenes/tragaperras.gif" alt="Proyecto 1">
@@ -29,7 +29,7 @@
 
 <hr/>
 
-## Proyecto - Interfaz SQL con Java Swing
+## Interfaz SQL con Java Swing - 1DAW
 <div align="center">
 <a href="https://github.com/Maax3/Aplicacion_BDD_1DAW" target="_blank">
 <img src="imagenes/x1.png" alt="Proyecto 2">
@@ -39,13 +39,13 @@
 
 <hr/>
 
-## Juego - Conecta 4 (Java Swing)
+## Juego - Conecta 4 (Java Swing) - 1DAW
 <div align="center">
 <a href="https://github.com/Maax3/Conecta4_1DAW" target="_blank">
 <img src="imagenes/conecta4.gif" alt="Proyecto 3">
 </a></div>
 
-## Prototipos web - (Presentaciones) 
+# WEB
 
 <div align="center">
 <a href="https://github.com/Maax3/Prototipo-web-Panaderia" target="_blank">
