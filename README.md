@@ -6,11 +6,16 @@
     <img src="imagenes/portada2.png" alt="Proyecto 1">
 </p>
 
-# Proyectos de Big Data
+# Proyectos de Empresa
 
 <br><div align="center">
 <a href="https://github.com/Maax3/AzureTwitter" target="_blank">
 <img src="imagenes/azuteTwietter.png" alt="Proyecto 99">
+</a></div>
+
+<br><div align="center">
+<a href="https://github.com/Maax3/KafkaCandlestick" target="_blank">
+<img src="imagenes/noticia_wca__seg_120422_773043.jpeg" alt="Proyecto 99">
 </a></div>
 
 # Proyectos del Grado Superior
