@@ -15,7 +15,7 @@
 
 <br><div align="center">
 <a href="https://github.com/Maax3/KafkaCandlestick" target="_blank">
-<img src="imagenes/noticia_wca__seg_120422_773043.jpeg" alt="Proyecto 99">
+<img src="imagenes/bitcoin.jpg" alt="Proyecto 99">
 </a></div>
 
 # Proyectos del Grado Superior
