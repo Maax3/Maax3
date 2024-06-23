@@ -10,12 +10,12 @@
 
 <br><div align="center">
 <a href="https://github.com/Maax3/AzureTwitter" target="_blank">
-<img src="imagenes/azureTwitter.png" width="700" heigth="auto" alt="Proyecto 99">
+<img src="imagenes/azureTwitter.png" width="500" height="auto" alt="Proyecto 99">
 </a></div>
 
 <div align="center">
 <a href="https://github.com/Maax3/KafkaCandlestick" target="_blank">
-<img src="imagenes/bitcoin.jpg" alt="Proyecto 99">
+<img src="imagenes/noticia_wca__seg_120422_773043.jpeg" width="300" height="auto" alt="Proyecto 99">
 </a></div>
 
 # Proyectos del Grado Superior
