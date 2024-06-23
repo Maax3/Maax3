@@ -10,10 +10,10 @@
 
 <br><div align="center">
 <a href="https://github.com/Maax3/AzureTwitter" target="_blank">
-<img src="imagenes/azureTwitter2.png" alt="Proyecto 99">
+<img src="imagenes/azureTwitter.png" width="700" heigth="auto" alt="Proyecto 99">
 </a></div>
 
-<br><div align="center">
+<div align="center">
 <a href="https://github.com/Maax3/KafkaCandlestick" target="_blank">
 <img src="imagenes/bitcoin.jpg" alt="Proyecto 99">
 </a></div>
